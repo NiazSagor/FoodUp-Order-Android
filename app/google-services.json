@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "1018673804591",
+    "firebase_url": "https://food-86e25.firebaseio.com",
+    "project_id": "food-86e25",
+    "storage_bucket": "food-86e25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018673804591:android:134d7a1a8dae3585dc1dda",
+        "android_client_info": {
+          "package_name": "com.angik.android.foodup_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018673804591-8rmtt0knpi95egrvkbak6i8nidoc17le.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angik.android.foodup_order",
+            "certificate_hash": "7c1b3c0664812b5efa184f59e515fb18d30a1097"
+          }
+        },
+        {
+          "client_id": "1018673804591-hhpcbh0andffq0it5grh9a62p5qb6pds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7hOfwXMhn11VfyxAEIulO62t2UKqUyeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018673804591-hhpcbh0andffq0it5grh9a62p5qb6pds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018673804591:android:23529deb10adf662",
+        "android_client_info": {
+          "package_name": "com.angik.duodevloopers.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018673804591-17f2kude2jb0eg0n2r1egdopng61udob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angik.duodevloopers.food",
+            "certificate_hash": "aa534e331e367c7ab5b78563db70fe2b9e11c533"
+          }
+        },
+        {
+          "client_id": "1018673804591-fqsuj4erqcqje7feeuvbusib6lqluf0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angik.duodevloopers.food",
+            "certificate_hash": "0059eaaf4751d2d83a980d1d7ec55fd7c20268f8"
+          }
+        },
+        {
+          "client_id": "1018673804591-r457gds5odsljs5fi4egos1flif0gl6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angik.duodevloopers.food",
+            "certificate_hash": "7c1b3c0664812b5efa184f59e515fb18d30a1097"
+          }
+        },
+        {
+          "client_id": "1018673804591-hhpcbh0andffq0it5grh9a62p5qb6pds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7hOfwXMhn11VfyxAEIulO62t2UKqUyeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018673804591-hhpcbh0andffq0it5grh9a62p5qb6pds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
